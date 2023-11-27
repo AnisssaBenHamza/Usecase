@@ -1,0 +1,26 @@
+  {
+    "classes":["WEATHER ","HEALTH_ISSUE","LEGAL_ISSUES"],
+    "annotations":
+    [
+      ["We had a wonderful experience at Lupu. Despite the rainy weather, the cozy atmosphere and attentive staff made our evening memorable. The food was delicious, and we appreciate the warm hospitality.",{"entities":[[51,56,"WEATHER "]]}],
+
+      ["Visited Mcdonalds on a sunny day. The outdoor seating was perfect, and the waitstaff were friendly and accommodating. The food was top-notch, and we left with satisfied stomachs and smiles on our faces.",{"entities":[[23,28,"WEATHER "]]}],
+
+      ["Despite the unexpected storm, the team at popitta handled it well. The ambiance indoors was cozy, and the service was quick. The chef's special for the day was a hit  perfect comfort food for the weather.",{"entities":[[23,28,"WEATHER "]]}],
+
+      ["Great vibes at the place, even during the chilly evening. The staff went out of their way to make us comfortable, and the hot dishes served were a welcome relief. A fantastic place to dine regardless of the weather",{"entities":[[42,48,"WEATHER "],[207,214,"WEATHER "]]}],
+
+      ["Our experience at blobblob was disappointing. The waiter seemed indifferent, and the gloomy weather outside reflected the lackluster atmosphere inside. The food was below our expectations, making it an overall letdown.",{"entities":[[85,99,"WEATHER "]]}],
+      ["Encountered a rude waiter at the corner. Despite the sunny day, the negative attitude dampened our mood. The food was average, but the poor service overshadowed any positive aspects of the visit.",{"entities":[[14,25,"LEGAL_ISSUES"],[53,62,"WEATHER "]]}],
+      ["Regrettably, our recent visit to Sushimi resulted in food poisoning. The rainy weather didn't help, but the hygiene standards and quality of the ingredients were clearly lacking. Beware of potential health risks.",{"entities":[[73,86,"WEATHER "],[108,115,"HEALTH_ISSUE"],[199,211,"HEALTH_ISSUE"]]}],
+      ["Unfortunately, our experience was marred by a hostile waiter at bondo. The storm outside seemed mild compared to the unwarranted aggression we faced. Not the pleasant evening we were hoping for.",{"entities":[[46,53,"LEGAL_ISSUES"],[75,80,"WEATHER "],[117,128,"LEGAL_ISSUES"],[129,139,"LEGAL_ISSUES"]]}],
+      ["the health and safety standards at stardo left much to be desired. Despite the sunny weather, we couldn't overlook the unclean surroundings and questionable hygiene practices. A disappointing visit that raised concerns about food safety.",{"entities":[[4,10,"HEALTH_ISSUE"],[15,21,"LEGAL_ISSUES"],[75,92,"WEATHER "],[119,126,"HEALTH_ISSUE"],[157,164,"HEALTH_ISSUE"],[225,236,"HEALTH_ISSUE"]]}],
+      ["I got very sick after eating sushi at shushimi. I do not recommend it. The waiter also tried to hit me. ",{"entities":[[11,15,"HEALTH_ISSUE"],[96,102,"LEGAL_ISSUES"]]}],
+      ["Our experience at FoodieLand was a nightmare. Not only did we endure a severe case of food poisoning, but we also discovered that the restaurant had violated several health and safety regulations. We're considering legal action due to the extent of our suffering and the blatant negligence on their part.",{"entities":[[91,100,"HEALTH_ISSUE"],[158,165,"LEGAL_ISSUES"],[184,196,"LEGAL_ISSUES"],[215,227,"LEGAL_ISSUES"]]}],
+      ["The situation at XYZ Bistro went from bad to worse. The food was subpar, and to make matters worse, we witnessed a heated argument between the staff and another customer. It escalated to the point where it seemed like a legal matter. The entire ordeal ruined what was supposed to be a pleasant evening out.",{"entities":[[122,130,"LEGAL_ISSUES"],[220,233,"LEGAL_ISSUES"]]}],
+      ["Steer clear of TasteHaven! Our recent visit ended with a heated confrontation with the manager. They refused to honor a promotional offer they had advertised, and when we questioned it, the situation got aggressive. We're contemplating legal action for false advertising and the mistreatment we endured.",{"entities":[[64,77,"LEGAL_ISSUES"],[204,215,"LEGAL_ISSUES"],[253,270,"LEGAL_ISSUES"],[279,291,"LEGAL_ISSUES"]]}]
+     
+    ]
+    
+  }
+
