@@ -1,5 +1,5 @@
 # Usecase
-This is a usecase repo dedicated to MALOU internship application. The approach was to develop a hybrid model leveraging both the abilities of NLP and Rule-based models. 
+This is a usecase to develop an algorithm that aims to generate appropriate responses to a feedback. The approach was to develop a hybrid model leveraging both the abilities of NLP and Rule-based models. 
 
 # Files 
 
@@ -20,8 +20,6 @@ Restaurant_Reviews.csv : Sentiment Analysis Dataset
 training_NER.json: NER dataset for sensitive topics extraction (POC)
 
 # Resources
-
-[MALOU - Comment utiliser l'intelligence artificielle pour BOOSTER LE MARKETING DE SON RESTAURANT ?](https://malou.io/ressources/utiliser-intelligence-artificielle-booster-marketing-restaurant)
 
 [Elevate Customer Experiences with Feedback Bots](https://verloop.io/blog/feedback-bot/)
 
